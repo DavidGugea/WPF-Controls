@@ -1,0 +1,14 @@
+G:\David\PROGRAMMING\CSC\WPF_Controls\Button_RepeatButton_ToggleButton\obj\Debug\MainWindow.g.cs
+G:\David\PROGRAMMING\CSC\WPF_Controls\Button_RepeatButton_ToggleButton\obj\Debug\App.g.cs
+G:\David\PROGRAMMING\CSC\WPF_Controls\Button_RepeatButton_ToggleButton\obj\Debug\Button_RepeatButton_ToggleButton_MarkupCompile.cache
+G:\David\PROGRAMMING\CSC\WPF_Controls\Button_RepeatButton_ToggleButton\obj\Debug\Button_RepeatButton_ToggleButton_MarkupCompile.lref
+G:\David\PROGRAMMING\CSC\WPF_Controls\Button_RepeatButton_ToggleButton\bin\Debug\Button_RepeatButton_ToggleButton.exe.config
+G:\David\PROGRAMMING\CSC\WPF_Controls\Button_RepeatButton_ToggleButton\bin\Debug\Button_RepeatButton_ToggleButton.exe
+G:\David\PROGRAMMING\CSC\WPF_Controls\Button_RepeatButton_ToggleButton\bin\Debug\Button_RepeatButton_ToggleButton.pdb
+G:\David\PROGRAMMING\CSC\WPF_Controls\Button_RepeatButton_ToggleButton\obj\Debug\MainWindow.baml
+G:\David\PROGRAMMING\CSC\WPF_Controls\Button_RepeatButton_ToggleButton\obj\Debug\Button_RepeatButton_ToggleButton.g.resources
+G:\David\PROGRAMMING\CSC\WPF_Controls\Button_RepeatButton_ToggleButton\obj\Debug\Button_RepeatButton_ToggleButton.Properties.Resources.resources
+G:\David\PROGRAMMING\CSC\WPF_Controls\Button_RepeatButton_ToggleButton\obj\Debug\Button_RepeatButton_ToggleButton.csproj.GenerateResource.cache
+G:\David\PROGRAMMING\CSC\WPF_Controls\Button_RepeatButton_ToggleButton\obj\Debug\Button_RepeatButton_ToggleButton.csproj.CoreCompileInputs.cache
+G:\David\PROGRAMMING\CSC\WPF_Controls\Button_RepeatButton_ToggleButton\obj\Debug\Button_RepeatButton_ToggleButton.exe
+G:\David\PROGRAMMING\CSC\WPF_Controls\Button_RepeatButton_ToggleButton\obj\Debug\Button_RepeatButton_ToggleButton.pdb

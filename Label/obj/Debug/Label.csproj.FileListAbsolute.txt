@@ -1,0 +1,15 @@
+G:\David\PROGRAMMING\CSC\WPF_Controls\Label\bin\Debug\Label.exe.config
+G:\David\PROGRAMMING\CSC\WPF_Controls\Label\bin\Debug\Label.exe
+G:\David\PROGRAMMING\CSC\WPF_Controls\Label\bin\Debug\Label.pdb
+G:\David\PROGRAMMING\CSC\WPF_Controls\Label\obj\Debug\Label.csprojAssemblyReference.cache
+G:\David\PROGRAMMING\CSC\WPF_Controls\Label\obj\Debug\MainWindow.g.cs
+G:\David\PROGRAMMING\CSC\WPF_Controls\Label\obj\Debug\App.g.cs
+G:\David\PROGRAMMING\CSC\WPF_Controls\Label\obj\Debug\Label_MarkupCompile.cache
+G:\David\PROGRAMMING\CSC\WPF_Controls\Label\obj\Debug\Label_MarkupCompile.lref
+G:\David\PROGRAMMING\CSC\WPF_Controls\Label\obj\Debug\MainWindow.baml
+G:\David\PROGRAMMING\CSC\WPF_Controls\Label\obj\Debug\Label.g.resources
+G:\David\PROGRAMMING\CSC\WPF_Controls\Label\obj\Debug\Label.Properties.Resources.resources
+G:\David\PROGRAMMING\CSC\WPF_Controls\Label\obj\Debug\Label.csproj.GenerateResource.cache
+G:\David\PROGRAMMING\CSC\WPF_Controls\Label\obj\Debug\Label.csproj.CoreCompileInputs.cache
+G:\David\PROGRAMMING\CSC\WPF_Controls\Label\obj\Debug\Label.exe
+G:\David\PROGRAMMING\CSC\WPF_Controls\Label\obj\Debug\Label.pdb

@@ -1,0 +1,14 @@
+﻿<Window x:Class="Button_RepeatButton_ToggleButton.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Button_RepeatButton_ToggleButton"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <Button Margin="15" Click="Button_Click">Button</Button>
+        <RepeatButton Margin="15" Delay="2000" Interval="500" Click="RepeatButton_Click">Repeat Button</RepeatButton>
+        <ToggleButton Margin="15" Name="tb" Checked="tb_Checked">Toggle Button</ToggleButton>
+    </StackPanel>
+</Window>
