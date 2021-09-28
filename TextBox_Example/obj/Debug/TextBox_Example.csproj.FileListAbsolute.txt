@@ -1,0 +1,15 @@
+G:\David\PROGRAMMING\CSC\WPF_Controls\TextBox_Example\bin\Debug\TextBox_Example.exe.config
+G:\David\PROGRAMMING\CSC\WPF_Controls\TextBox_Example\bin\Debug\TextBox_Example.exe
+G:\David\PROGRAMMING\CSC\WPF_Controls\TextBox_Example\bin\Debug\TextBox_Example.pdb
+G:\David\PROGRAMMING\CSC\WPF_Controls\TextBox_Example\obj\Debug\TextBox_Example.csprojAssemblyReference.cache
+G:\David\PROGRAMMING\CSC\WPF_Controls\TextBox_Example\obj\Debug\MainWindow.g.cs
+G:\David\PROGRAMMING\CSC\WPF_Controls\TextBox_Example\obj\Debug\App.g.cs
+G:\David\PROGRAMMING\CSC\WPF_Controls\TextBox_Example\obj\Debug\TextBox_Example_MarkupCompile.cache
+G:\David\PROGRAMMING\CSC\WPF_Controls\TextBox_Example\obj\Debug\TextBox_Example_MarkupCompile.lref
+G:\David\PROGRAMMING\CSC\WPF_Controls\TextBox_Example\obj\Debug\MainWindow.baml
+G:\David\PROGRAMMING\CSC\WPF_Controls\TextBox_Example\obj\Debug\TextBox_Example.g.resources
+G:\David\PROGRAMMING\CSC\WPF_Controls\TextBox_Example\obj\Debug\TextBox_Example.Properties.Resources.resources
+G:\David\PROGRAMMING\CSC\WPF_Controls\TextBox_Example\obj\Debug\TextBox_Example.csproj.GenerateResource.cache
+G:\David\PROGRAMMING\CSC\WPF_Controls\TextBox_Example\obj\Debug\TextBox_Example.csproj.CoreCompileInputs.cache
+G:\David\PROGRAMMING\CSC\WPF_Controls\TextBox_Example\obj\Debug\TextBox_Example.exe
+G:\David\PROGRAMMING\CSC\WPF_Controls\TextBox_Example\obj\Debug\TextBox_Example.pdb

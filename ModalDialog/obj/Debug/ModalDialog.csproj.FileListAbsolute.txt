@@ -1,0 +1,17 @@
+G:\David\PROGRAMMING\CSC\WPF_Controls\ModalDialog\bin\Debug\ModalDialog.exe.config
+G:\David\PROGRAMMING\CSC\WPF_Controls\ModalDialog\bin\Debug\ModalDialog.exe
+G:\David\PROGRAMMING\CSC\WPF_Controls\ModalDialog\bin\Debug\ModalDialog.pdb
+G:\David\PROGRAMMING\CSC\WPF_Controls\ModalDialog\obj\Debug\ModalDialog.csprojAssemblyReference.cache
+G:\David\PROGRAMMING\CSC\WPF_Controls\ModalDialog\obj\Debug\MainWindow.g.cs
+G:\David\PROGRAMMING\CSC\WPF_Controls\ModalDialog\obj\Debug\UserControl1.g.cs
+G:\David\PROGRAMMING\CSC\WPF_Controls\ModalDialog\obj\Debug\App.g.cs
+G:\David\PROGRAMMING\CSC\WPF_Controls\ModalDialog\obj\Debug\ModalDialog_MarkupCompile.cache
+G:\David\PROGRAMMING\CSC\WPF_Controls\ModalDialog\obj\Debug\ModalDialog_MarkupCompile.lref
+G:\David\PROGRAMMING\CSC\WPF_Controls\ModalDialog\obj\Debug\MainWindow.baml
+G:\David\PROGRAMMING\CSC\WPF_Controls\ModalDialog\obj\Debug\UserControl1.baml
+G:\David\PROGRAMMING\CSC\WPF_Controls\ModalDialog\obj\Debug\ModalDialog.g.resources
+G:\David\PROGRAMMING\CSC\WPF_Controls\ModalDialog\obj\Debug\ModalDialog.Properties.Resources.resources
+G:\David\PROGRAMMING\CSC\WPF_Controls\ModalDialog\obj\Debug\ModalDialog.csproj.GenerateResource.cache
+G:\David\PROGRAMMING\CSC\WPF_Controls\ModalDialog\obj\Debug\ModalDialog.csproj.CoreCompileInputs.cache
+G:\David\PROGRAMMING\CSC\WPF_Controls\ModalDialog\obj\Debug\ModalDialog.exe
+G:\David\PROGRAMMING\CSC\WPF_Controls\ModalDialog\obj\Debug\ModalDialog.pdb

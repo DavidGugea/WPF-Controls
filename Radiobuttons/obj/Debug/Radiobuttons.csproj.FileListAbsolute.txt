@@ -1,0 +1,14 @@
+G:\David\PROGRAMMING\CSC\WPF_Controls\Radiobuttons\bin\Debug\Radiobuttons.exe.config
+G:\David\PROGRAMMING\CSC\WPF_Controls\Radiobuttons\bin\Debug\Radiobuttons.exe
+G:\David\PROGRAMMING\CSC\WPF_Controls\Radiobuttons\bin\Debug\Radiobuttons.pdb
+G:\David\PROGRAMMING\CSC\WPF_Controls\Radiobuttons\obj\Debug\MainWindow.g.cs
+G:\David\PROGRAMMING\CSC\WPF_Controls\Radiobuttons\obj\Debug\App.g.cs
+G:\David\PROGRAMMING\CSC\WPF_Controls\Radiobuttons\obj\Debug\Radiobuttons_MarkupCompile.cache
+G:\David\PROGRAMMING\CSC\WPF_Controls\Radiobuttons\obj\Debug\Radiobuttons_MarkupCompile.lref
+G:\David\PROGRAMMING\CSC\WPF_Controls\Radiobuttons\obj\Debug\MainWindow.baml
+G:\David\PROGRAMMING\CSC\WPF_Controls\Radiobuttons\obj\Debug\Radiobuttons.g.resources
+G:\David\PROGRAMMING\CSC\WPF_Controls\Radiobuttons\obj\Debug\Radiobuttons.Properties.Resources.resources
+G:\David\PROGRAMMING\CSC\WPF_Controls\Radiobuttons\obj\Debug\Radiobuttons.csproj.GenerateResource.cache
+G:\David\PROGRAMMING\CSC\WPF_Controls\Radiobuttons\obj\Debug\Radiobuttons.csproj.CoreCompileInputs.cache
+G:\David\PROGRAMMING\CSC\WPF_Controls\Radiobuttons\obj\Debug\Radiobuttons.exe
+G:\David\PROGRAMMING\CSC\WPF_Controls\Radiobuttons\obj\Debug\Radiobuttons.pdb

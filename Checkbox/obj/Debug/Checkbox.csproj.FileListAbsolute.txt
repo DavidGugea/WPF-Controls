@@ -1,0 +1,15 @@
+G:\David\PROGRAMMING\CSC\WPF_Controls\Checkbox\bin\Debug\Checkbox.exe.config
+G:\David\PROGRAMMING\CSC\WPF_Controls\Checkbox\bin\Debug\Checkbox.exe
+G:\David\PROGRAMMING\CSC\WPF_Controls\Checkbox\bin\Debug\Checkbox.pdb
+G:\David\PROGRAMMING\CSC\WPF_Controls\Checkbox\obj\Debug\Checkbox.csprojAssemblyReference.cache
+G:\David\PROGRAMMING\CSC\WPF_Controls\Checkbox\obj\Debug\MainWindow.g.cs
+G:\David\PROGRAMMING\CSC\WPF_Controls\Checkbox\obj\Debug\App.g.cs
+G:\David\PROGRAMMING\CSC\WPF_Controls\Checkbox\obj\Debug\Checkbox_MarkupCompile.cache
+G:\David\PROGRAMMING\CSC\WPF_Controls\Checkbox\obj\Debug\Checkbox_MarkupCompile.lref
+G:\David\PROGRAMMING\CSC\WPF_Controls\Checkbox\obj\Debug\MainWindow.baml
+G:\David\PROGRAMMING\CSC\WPF_Controls\Checkbox\obj\Debug\Checkbox.g.resources
+G:\David\PROGRAMMING\CSC\WPF_Controls\Checkbox\obj\Debug\Checkbox.Properties.Resources.resources
+G:\David\PROGRAMMING\CSC\WPF_Controls\Checkbox\obj\Debug\Checkbox.csproj.GenerateResource.cache
+G:\David\PROGRAMMING\CSC\WPF_Controls\Checkbox\obj\Debug\Checkbox.csproj.CoreCompileInputs.cache
+G:\David\PROGRAMMING\CSC\WPF_Controls\Checkbox\obj\Debug\Checkbox.exe
+G:\David\PROGRAMMING\CSC\WPF_Controls\Checkbox\obj\Debug\Checkbox.pdb
