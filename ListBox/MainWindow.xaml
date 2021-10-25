@@ -1,0 +1,43 @@
+﻿<Window x:Class="ListBox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ListBox"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <ListBox SelectionMode="Extended" Grid.Row="0">
+            <ListBoxItem IsSelected="True">Row 1</ListBoxItem> 
+            <ListBoxItem>Row 2</ListBoxItem> 
+            <ListBoxItem>Row 3</ListBoxItem> 
+            <ListBoxItem>Row 4</ListBoxItem> 
+            <ListBoxItem>Row 5</ListBoxItem> 
+        </ListBox>
+        <ListBox SelectionMode="Multiple" Grid.Row="1">
+            <CheckBox Name="Item1">Checkbox 1</CheckBox>
+            <CheckBox Name="Item2">Checkbox 2</CheckBox>
+            <CheckBox Name="Item3">Checkbox 3</CheckBox>
+            <CheckBox Name="Item4">Checkbox 4</CheckBox>
+            <CheckBox Name="Item5">Checkbox 5</CheckBox>
+        </ListBox>
+        <ListBox Name="testListBox"  SelectionMode="Extended" Grid.Row="2">
+            <ListBoxItem>Item 1</ListBoxItem>
+            <ListBoxItem>Item 2</ListBoxItem>
+            <ListBoxItem IsSelected="True">Item 3</ListBoxItem>
+            <ListBoxItem>Item 4</ListBoxItem>
+            <ListBoxItem>Item 5</ListBoxItem>
+        </ListBox>
+        <StackPanel Grid.Row="3">
+            <Button HorizontalAlignment="Center" VerticalAlignment="Center" Padding="5px" FontFamily="Verdana" FontSize="15" Click="Button_Click_1">Click here</Button>
+            <Label Name="testLabel" Content="" Padding="5px" FontSize="15" FontFamily="Verdana" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </StackPanel>
+    </Grid>
+</Window>

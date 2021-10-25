@@ -1,0 +1,18 @@
+﻿<Window x:Class="RadioButtons2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RadioButtons2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="200" Width="200">
+    <StackPanel Margin="5">
+        <Label Content="Radio Buttons" Height="25"/>
+        <Label Content="----------------------------------" Margin="4, 10"/>
+        <RadioButton Name="rb1">Option 1</RadioButton>
+        <RadioButton Name="rb2">Option 2</RadioButton>
+        <RadioButton Name="rb3">Option 3</RadioButton>
+        <RadioButton Name="rb4">Option 4</RadioButton>
+        <RadioButton Name="rb5">Option 5</RadioButton>
+    </StackPanel>
+</Window>

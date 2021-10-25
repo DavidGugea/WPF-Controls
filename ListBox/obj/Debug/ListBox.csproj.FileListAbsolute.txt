@@ -1,0 +1,15 @@
+G:\David\PROGRAMMING\CSC\WPF_Controls\ListBox\bin\Debug\ListBox.exe.config
+G:\David\PROGRAMMING\CSC\WPF_Controls\ListBox\bin\Debug\ListBox.exe
+G:\David\PROGRAMMING\CSC\WPF_Controls\ListBox\bin\Debug\ListBox.pdb
+G:\David\PROGRAMMING\CSC\WPF_Controls\ListBox\obj\Debug\ListBox.csprojAssemblyReference.cache
+G:\David\PROGRAMMING\CSC\WPF_Controls\ListBox\obj\Debug\MainWindow.g.cs
+G:\David\PROGRAMMING\CSC\WPF_Controls\ListBox\obj\Debug\App.g.cs
+G:\David\PROGRAMMING\CSC\WPF_Controls\ListBox\obj\Debug\ListBox_MarkupCompile.cache
+G:\David\PROGRAMMING\CSC\WPF_Controls\ListBox\obj\Debug\ListBox_MarkupCompile.lref
+G:\David\PROGRAMMING\CSC\WPF_Controls\ListBox\obj\Debug\MainWindow.baml
+G:\David\PROGRAMMING\CSC\WPF_Controls\ListBox\obj\Debug\ListBox.g.resources
+G:\David\PROGRAMMING\CSC\WPF_Controls\ListBox\obj\Debug\ListBox.Properties.Resources.resources
+G:\David\PROGRAMMING\CSC\WPF_Controls\ListBox\obj\Debug\ListBox.csproj.GenerateResource.cache
+G:\David\PROGRAMMING\CSC\WPF_Controls\ListBox\obj\Debug\ListBox.csproj.CoreCompileInputs.cache
+G:\David\PROGRAMMING\CSC\WPF_Controls\ListBox\obj\Debug\ListBox.exe
+G:\David\PROGRAMMING\CSC\WPF_Controls\ListBox\obj\Debug\ListBox.pdb
